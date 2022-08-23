@@ -1,0 +1,51 @@
+- class_name: 🎉 友情链接
+  class_desc:
+  link_list:
+    - name: 往后余生
+      link: https://yuefengs.top
+      avatar: https://yuefengs.top/img/avatar.png
+      descr: 朱大哥的个人博客
+    - name: D大
+      link: https://88250.b3log.org
+      avatar: /images/link/D.png
+      descr: 开源程序员，自由职业者
+    - name: 海加尔金鹰
+      link: https://www.hjljy.cn
+      avatar: /images/link/hjljy.jpg
+      descr: 如野草般一岁一枯荣
+    - name: TDsimon
+      link: https://www.simon96.online
+      avatar: /images/link/TDsimon.png
+      descr: 一个若森数字的工作者
+    - name: 虎吟
+      link: https://huing.cn
+      avatar: https://huing-1251298234.file.myqcloud.com/logo.png
+      descr: 今日我，与你又试肩并肩
+    - name: 极客笔记
+      link: https://guoch.xyz
+      avatar: /images/link/极客笔记.png
+      descr: 一个苦逼的CS狗
+    - name: SolitudeAlma
+      link: https://blog.yt1209.com/
+      avatar: https://img.imgdb.cn/item/603750c35f4313ce25f92a35.jpg
+      descr: 都懂一点，不是很懂的小捞仔
+    - name: 小胖墩er
+      link: https://chubbyduner.top
+      avatar: https://cdn.jsdelivr.net/gh/Chubby-Duner/image-hosting@master/blog/logo.jpeg
+      descr: 迟到总比不到的好，所以好好加油吧。
+    - name: 吴先森的笔记
+      link: https://www.wunote.cn
+      avatar: https://static.llilii.cn/images/avatar/takanashi-rikka.jpg
+      descr: 欸嘿~
+    - name: 霜狐的科技屋
+      link: https://www.frostfox.cn
+      avatar: https://www.frostfox.cn/logo.png
+      descr: 让科技服务于人类
+    - name: 叹世界
+      link: https://www.hauhau.cn
+      avatar: https://www.hauhau.cn/uploads/logo.png
+      descr: 哈喽啊～各位
+    - name: 梁布斯博客
+      link: https://blog.cnmobile.link
+      avatar: https://blog.cnmobile.link/favoico.jpg
+      descr: May all the beauty be blessed.
